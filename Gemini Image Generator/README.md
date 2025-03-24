@@ -19,9 +19,9 @@ Gemini Image Generator is a simple tool that uses Google's Gemini AI to generate
 ## Features
 
 - **AI-Powered Icon Generation**: Creates game icons using Gemini AI based on the properties of each item.
-- **Batch Processing**: Processes icons in batches, which simplifies handling larger sets of items.
+- **Batch Processing**: Processes icons in batches, simplifying the handling of larger sets of items.
 - **Rate Limiting**: Adds delays between API calls to avoid overloading the server.
-- **Progress Tracking**: Uses a JSON file to keep track of progress and resume if the process is interrupted.
+- **Progress Tracking**: Uses a JSON file to keep track of progress and resume if interrupted.
 - **Custom Prompts**: Generates prompts for each item based on its specific properties.
 
 ## Project Structure
